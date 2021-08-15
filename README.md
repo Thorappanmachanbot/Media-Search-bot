@@ -13,7 +13,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thorappanmachanbot)
 ### Hard Way
 
 ```bash
@@ -76,13 +76,13 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* Original [Repo](https://github.com/Thorappanmachanbot)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/Global_Movie_official_owner)
 
-[Update Channel](https://t.me/subin_works)
+[Update Channel](https://t.me/GlobalMovieOfficial)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
